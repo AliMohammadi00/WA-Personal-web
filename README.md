@@ -8,7 +8,7 @@ Light Mode 👇
 ![Light Mode Website](./screenshots/lightmodescreenshot.png)
 
 Dark Mode 👇  
-![Dark Mode Website](https://github.com/AliMohammadi00/WA-personal-landing/blob/master/screenshots/darkmodescreenshot.png)
+![Dark Mode Website](./screenshots/darkmodescreenshot.png)
 
 ### 📁 Features
 
