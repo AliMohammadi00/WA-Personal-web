@@ -2,6 +2,10 @@
 
 A modern, responsive landing page designed to showcase personal skills and projects. Built with HTML, CSS, and JavaScript.
 
+### 🚀 Demo
+<a href="https://alimohammadi00.github.io/WA-Personal-web/">Live Demo</a>
+
+
 ### 📸 Preview
 
 Light Mode 👇  
